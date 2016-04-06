@@ -21,12 +21,19 @@ Optional
 </ul>
 
 ## Steps
+For Twine version 1.4
 <ol>
   <li>Download the Twine application (for Windows or Mac depending on your computer) from  <a href="twinery.org">twinery.org</a></li>
   <li>Install Twine from the downloaded file and open it when it's finished installing.</li>
   <li>Follow the instructions on the worksheet: TwineWorksheet.pdf</li>
   <li>You can write down your own choice of story elements on a print out of TwineHandoutSheet.pdf if you like.</li>
-  <li>Unlike at an actual Dojo, we can't upload your story to our server, but there are a number of free sites that will host your Twine story once you've built it to produce an HTML file.  These include:</li>
+  </ol>
+  For Twine version 2.0
+<ol>
+  <li>Follow the instructions on the worksheet: TwineWorksheet.pdf</li>
+  <li>You can write down your own choice of story elements on a print out of TwineHandoutSheet.pdf if you like.</li>
+  </ol>
+Unlike at an actual Dojo, we can't upload your story to our server, but there are a number of free sites that will host your Twine story once you've built it to produce an HTML file.  These include:</li>
   <ul>
     <li><a href="http://www.philome.la/">philome.la</li>
     <li><a href="https://neocities.org/">neocities.org</li>
