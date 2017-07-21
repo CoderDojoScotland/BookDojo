@@ -45,9 +45,9 @@ Unlike at an actual Dojo, we can't upload your story to our server, but there ar
     <li><a href="https://neocities.org/">neocities.org</li>
     <li><a href="http://adventurecow.com/">adventurecow.com</li>
   </ul>
-</ul>
 
-#Note
+
+## Note
 Keep in mind that as with any creative tool,  whether it's text-, video-, or photo-based, not all the Twine stories on the web will be suitable for younger readers. 
 
 
