@@ -7,7 +7,6 @@ Worksheets and resources for a Dojo about the Twine interactive fiction platform
 
 
 ## Licence
-
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) License</a>.
 
 ## Equipment
@@ -20,6 +19,9 @@ Optional
   <li>Paper</li>
   <li>Pencil</li>
 </ul>
+
+## Stories
+You can read some of the interactive stories written by coders at our Dojos here: [Twine Stories](http://coderdojo.co/weewrite/)
 
 ## Steps
 This repository has two versions of the same activity - the original workshop for the older Twine 1.4 and an updated version for Twine 2.
