@@ -2,7 +2,7 @@
 Worksheets and resources for a Dojo about the Twine interactive fiction platform.
 
 ## Author 
-[Claire Quigley](https://github.com/alcluith) <br/> (Original version)
+[Claire Quigley](https://github.com/alcluith) (Original version) <br/> 
 [Martin Goodfellow](https://github.com/martincoderdojo) (Twine 2 version)
 
 
