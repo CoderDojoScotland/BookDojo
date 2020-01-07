@@ -26,13 +26,13 @@ You can read some of the interactive stories written by coders at our Dojos here
 ## Steps
 This repository has two versions of the same activity - the original workshop for the older Twine 1.4 and an updated version for Twine 2.
 
-For ## Twine version 2.0
+## For Twine version 2.0
 <ol>
   <li>Follow the instructions on the worksheet: Library Adventure - instructions - Sept 18.pdf</li>
   <li>You can write down your own choice of story elements on a print out of TwineHandoutSheet.pdf if you like.</li>
   </ol>
   
-  For ## Twine version 1.4
+## For Twine version 1.4
 <ol>
   <li>Download the Twine application (for Windows or Mac depending on your computer) from  <a href="twinery.org">twinery.org</a></li>
   <li>Install Twine from the downloaded file and open it when it's finished installing.</li>
