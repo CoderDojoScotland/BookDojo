@@ -36,8 +36,9 @@ For Twine version 1.4
   </ol>
   For Twine version 2.0
 <ol>
-  <li>Follow the instructions on the worksheet: [Twine2Worksheet.pdf](https://github.com/CoderDojoScotland/BookDojo/blob/master/Library%20Adventure%20-%20instructions%20-%20Sept%2018.pdf)</li>
-  <li>You can write down your own choice of story elements on a print out of TwineHandoutSheet.pdf if you like.</li>
+  <li>Follow the instructions on the worksheet: 
+   [Twine2Worksheet.pdf](https://github.com/CoderDojoScotland/BookDojo/blob/master/Library%20Adventure%20-%20instructions%20-%20Sept%2018.pdf)</li>
+  <li>You can write down your own choice of story elements on a print out of [TwineHandoutSheet.pdf](https://github.com/CoderDojoScotland/BookDojo/blob/master/TwineHandoutSheet.pdf) if you like.</li>
   </ol>
 Unlike at an actual Dojo, we can't upload your story to our server, but there are a number of free sites that will host your Twine story once you've built it to produce an HTML file.  These include:</li>
   <ul>
